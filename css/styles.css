@@ -1,0 +1,23 @@
+  p{
+    color: #00E595;
+    font-size: 50px;
+    background-color:#6DDB26;
+  }
+
+  h1{
+    color:#6DDB26;
+    background-color:#ECEC0B;
+  }
+
+  h3{
+    color:#90FF48;
+  }
+
+  h4{
+    color:#008758;
+    font-size:30px;
+  }
+
+  body{
+    background-imag: url("https://i.pinimg.com/originals/7c/af/b8/7cafb84496cc64f5c445e0858b3c8408.jpg");
+  }
