@@ -1,0 +1,23 @@
+  p{
+    color: #00E595;
+    font-size: 50px;
+    background-color:#FFFA5F;
+  }
+
+  h1{
+    color:#6DDB26;
+    background-color:#ECEC0B;
+  }
+
+  h3{
+    color:#90FF48;
+  }
+
+  h4{
+    color:#008758;
+    font-size:30px;
+  }
+
+  body{
+    background-imag: url("spaceByKevin.jpg");
+  }

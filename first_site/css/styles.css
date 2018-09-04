@@ -1,7 +1,7 @@
 p{
   color: #90FF48;
   font-size: 50px;
-  background-image: image(spaceByKevin.jpg);
+  background-image: url("spaceByKevin.jpg");
   ;
 }
 
